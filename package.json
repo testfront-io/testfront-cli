@@ -15,7 +15,8 @@
     "typescript": "^3.7.2"
   },
   "scripts": {
-    "postinstall": "./postinstall.js"
+    "postinstall": "./postinstall.js",
+    "preuninstall": "./preuninstall.js"
   },
   "bin": {
     "testfront": "./bin.js"
