@@ -1,0 +1,22 @@
+{
+  "name": "testfront-cli",
+  "version": "1.0.0-alpha.2",
+  "description": "TestFront.io CLI",
+  "author": "testfront.io",
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^7.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-react-app": "^6.0.3",
+    "typescript": "^3.7.2"
+  },
+  "bin": {
+    "testfront": "./bin.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
