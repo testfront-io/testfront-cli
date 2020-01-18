@@ -1,10 +1,13 @@
 # testfront-cli
 
-Install with `npm i testfront-cli --save-dev`.
+Install with:
+```
+npm i testfront-cli --save-dev
+```
 
-After installation, a `"testfront"` entry will be automatically added to your package's `scripts`.
+After installation, a `testfront` entry will be automatically added to your package's `scripts`.
 
-You can then run any of the commands below within your package directory.
+You can then run any of the commands below within your project directory.
 
 For example:
 ```
